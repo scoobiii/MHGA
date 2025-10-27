@@ -3,7 +3,7 @@ Make Human Grouth Again
 
 # MAGA: Análise Crítica de uma Narrativa Populista no Capitalismo Contemporâneo
 
-![images (26)](images%20(26).jpeg)
+![bovo]20251026_152151.jpeg)
 
 ## Resumo Executivo
 
@@ -191,7 +191,7 @@ Para além da crítica, é necessário reconhecer:
 
 ##  E daí? O que podemos tirar de bom disso?
 
-![file_00000000399c620e8e90b70a2daadbb7_1](file_00000000399c620e8e90b70a2daadbb7.png)
+![MHGA](file_00000000399c620e8e90b70a2daadbb7.png)
 
 Para romper o ciclo, não basta “resistir” — é preciso reprogramar o capitalismo.
 E há caminhos reais (embora difíceis):
