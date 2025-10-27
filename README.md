@@ -191,7 +191,7 @@ Para além da crítica, é necessário reconhecer:
 
 ##  E daí? O que podemos tirar de bom disso?
 
-![file_00000000399c620e8e90b70a2daadbb7_1](_res/file_00000000399c620e8e90b70a2daadbb7_1.png)
+![file_00000000399c620e8e90b70a2daadbb7_1](file_00000000399c620e8e90b70a2daadbb7.png)
 
 Para romper o ciclo, não basta “resistir” — é preciso reprogramar o capitalismo.
 E há caminhos reais (embora difíceis):
