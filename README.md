@@ -235,7 +235,7 @@ Enquanto os algoritmos e plataformas concentram renda, a nova revolução pode s
 🔹 e) Liberdade energética e financeira.Produzir sua própria energia e vender o excedente para big tech's.
 
 
-![file_00000000fd6061f58a2a44699aa0e323](file_00000000fd6061f58a2a44699aa0e323.png)
+![Make Human Grouth Again](file_00000000fd6061f58a2a44699aa0e323.png)
 
 
 ---
