@@ -13,7 +13,7 @@ Este paper examina a dissonância entre a retórica do movimento "Make America G
 
 O movimento MAGA emergiu em 2016 prometendo restaurar a grandeza econômica americana, alegando que o país estava em declínio. Contudo, dados do Banco Mundial revelam uma trajetória oposta: o PIB per capita dos Estados Unidos alcançou $85.809,90 em 2024, representando crescimento contínuo e sustentado ao longo de décadas.
 
-![Screenshot_20251027_065019_Chrome](_res/Screenshot_20251027_065019_Chrome.jpg)
+![Screenshot_20251027_065019_Chrome](Screenshot_20251027_065019_Chrome.jpg)
 
 Este paradoxo levanta questões fundamentais: se a economia cresce, por que o discurso de declínio ressoa? A resposta está na distinção entre crescimento agregado e distribuição de riqueza.
 
