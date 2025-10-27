@@ -3,7 +3,7 @@ Make Human Grouth Again
 
 # MAGA: Análise Crítica de uma Narrativa Populista no Capitalismo Contemporâneo
 
-![images (26)](_res/images%20(26).jpeg)
+![images (26)](images%20(26).jpeg)
 
 ## Resumo Executivo
 
@@ -108,7 +108,7 @@ Massa imigrante “top top” — o paradoxo histórico
 Historicamente, os imigrantes são a base da expansão americana — irlandeses, italianos, judeus, chineses, latinos.
 Eles renovam a força produtiva e criativa.
 
-![20251026_152151](_res/20251026_152151.jpg)
+![20251026_152151](20251026_152151.jpg)
 
 Mas hoje há um paradoxo:
 
@@ -218,7 +218,7 @@ Enquanto os algoritmos e plataformas concentram renda, a nova revolução pode s
 🔹 e) Liberdade energética e financeira.Produzir sua própria energia e vender o excedente para big tech's.
 
 
-![file_00000000fd6061f58a2a44699aa0e323](_res/file_00000000fd6061f58a2a44699aa0e323.png)
+![file_00000000fd6061f58a2a44699aa0e323](file_00000000fd6061f58a2a44699aa0e323.png)
 
 
 ---
@@ -245,3 +245,4 @@ E a consciência global é maior do que em qualquer outro ciclo histórico.
 - Piketty, T. (2014). Capital in the Twenty-First Century.
 - Autor, D., et al. (2019). "The Fall of the Labor Share and the Rise of Superstar Firms." Quarterly Journal of Economics.
 - Mudde, C. & Kaltwasser, C.R. (2017). Populism: A Very Short Introduction.
+- O 'pavor' de imigrantes brasileiros em Massachusetts em meio a deportações em massa nos EUA https://github.com/scoobiii/MHGA/blob/main/images%20(26).jpeg
