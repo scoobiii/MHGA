@@ -3,7 +3,7 @@ Make Human Grouth Again
 
 # MAGA: Análise Crítica de uma Narrativa Populista no Capitalismo Contemporâneo
 
-![bovo](20251026_152151.jpeg)
+![bovo](BOVO.jpeg)
 
 ## Resumo Executivo
 
