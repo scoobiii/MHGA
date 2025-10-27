@@ -3,7 +3,7 @@ Make Human Grouth Again
 
 # MAGA: Análise Crítica de uma Narrativa Populista no Capitalismo Contemporâneo
 
-![bovo]20251026_152151.jpeg)
+![bovo](20251026_152151.jpeg)
 
 ## Resumo Executivo
 
@@ -108,7 +108,7 @@ Massa imigrante “top top” — o paradoxo histórico
 Historicamente, os imigrantes são a base da expansão americana — irlandeses, italianos, judeus, chineses, latinos.
 Eles renovam a força produtiva e criativa.
 
-![20251026_152151](20251026_152151.jpg)
+![20251026_152151(20251026_152151.jpg)
 
 Mas hoje há um paradoxo:
 
