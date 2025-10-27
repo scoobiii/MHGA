@@ -103,12 +103,12 @@ O MAGA, nesse sentido, é o quarto ciclo de re-concentração do capitalismo ame
 
 ---
 
-Massa imigrante “top top” — o paradoxo histórico
+## Massa imigrante “top top” — o paradoxo histórico
 
 Historicamente, os imigrantes são a base da expansão americana — irlandeses, italianos, judeus, chineses, latinos.
 Eles renovam a força produtiva e criativa.
 
-![20251026_152151(20251026_152151.jpg)
+![top top](20251026_152151.jpg)
 
 Mas hoje há um paradoxo:
 
@@ -165,7 +165,24 @@ O movimento MAGA representa um caso paradigmático de populismo reacionário no 
 - Defesa dos trabalhadores
 - Anti-establishment
 - Nacionalismo econômico
-- Culpabilização de imigrantes
+- Culpabilização de imigrantes e seus impactos
+
+  ## fuja pras montanhas
+
+  Aquecimento Global e Social:
+
+Brasileiros nunca sentiram medo do governo em lugar nenhum do mundo:
+
+Não é bem assim.
+
+O brasileiro confia na sorte; o judeu brasileiro, na memória e na estratégia. Uns buscam proteção em Trump e no mercado; outros defendem inclusão e humanismo. Todos têm o mesmo instinto: sobreviver sem jamais depender do acaso.
+
+90.000 norte-americanos no Brasil sentem medo físico e psicológico de L3/L4?
+
+Ou para Trump ICE eh soh + um  business fofinho, ético, ESG pattern?
+
+https://github.com/scoobiii/emeg
+
 
 **Realidade:**
 - Políticas pró-corporação
